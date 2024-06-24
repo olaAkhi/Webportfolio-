@@ -1,0 +1,119 @@
+body {
+    font-family: "Montserrat";
+}
+#title {
+    background-color: #4C3BCF;
+    color: #fff;
+}
+.container-fluid {
+    padding: 3% 10% 5% !important;
+    
+}
+
+h1, h2{
+  font-family: "Montserrat-black";
+  font-size: 3rem ;
+  line-height: 1.5;
+} 
+.subtitle {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    margin-top: 0.5rem;
+    color: #ddd;
+}
+  /* navigating bar */
+  
+.navbar {
+    padding: 0 0 4.5rem !important;
+     
+ }
+.navbar-brand {
+    font-family:  "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 10px;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+    font-family: "Montserrat-light";
+}
+
+.title-button {
+    margin: 5% 3% 5% 0%;
+}
+
+.polaroid {
+  margin: 0 auto;
+  padding: 0px ! important;
+  border-radius: 8px;
+  display: block;
+  width:  !important;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 2px;
+}
+
+.container {
+  text-align: center;
+  padding: 10px 15px;
+  color: black;
+}
+.container h3{
+    font-family: "Montserrat-black";
+    font-size: .7rem;
+    font-weight: bold;
+    line-height: .2rem;
+    padding: 5px;
+}
+
+.container p {
+    font-family: "Montserrat-bold";
+    font-size: .5rem;
+    font-weight: bold;
+    line-height: .1rem;
+}
+.material-symbols-outlined {
+  font-size: 1.2rem;
+  padding: 2px 5px 0px 0px;
+}
+
+#about {
+    background-color: lightgraygray;
+    text-align: center;
+    font-family: "Montserrat";
+    font-size: 0.7rem;
+    padding: 5px;
+}
+.about-contact {
+    font-size: 1rem;
+}
+.card {
+    background-color: red;
+   
+    color: black;
+}
+
+footer {
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: "Montserrat";
+    color: black;
+    font-size: 0.4rem;
+    wwidth: 100% !important;
+    padding: 10px 0px !important;
+}
+/* skills */
+
+
+.skills {
+    background-color: whitesmoke;
+    width: ;
+    margin: 5px 5px;
+    display: inline-block;
+    
+}
